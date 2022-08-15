@@ -26,4 +26,4 @@ The asset pack's changelog is in a separate text file called "changelog" in the 
 
 ## Discord
 - [Official general use Discord server - soon]()
-- [original Polish language Discord server](https://discord.gg/AveczdZ)
+- [Original Polish language Discord server](https://discord.gg/AveczdZ)
