@@ -19,7 +19,7 @@ The asset pack's changelog is in a separate text file called "changelog" in the 
 ### Resource Packs:
 - [Yenaabi 16x](https://www.planetminecraft.com/texture-pack/no-name-4498275/)
 - [Ender Dragon Wings - Elytra](https://www.planetminecraft.com/texture-pack/ender-dragon-wings-elytra/)
-- [Addpix Pack](https://www.planetminecraft.com/texture-pack/addpix-pack/)
+- [Addpix Pack](https://kypy0y.webwave.dev/addpix-pack)
 
 ### Mods:
 - [Polish Mafia Memes](https://www.planetminecraft.com/mod/polish-mafia-memes/)
