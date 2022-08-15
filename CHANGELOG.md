@@ -3,15 +3,6 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
-Types of changes tags:
-- Added 	     	# for new features
-- Changed 	  	# for changes in existing functionality.
-- Deprecated 		# for soon-to-be removed features. 
-- Removed 	  	# for now removed features. 
-- Fixed 	    	# for any bug fixes.
-
-
-
 ## [1.1 RUC b1]-[1.1 RUC b8] - 2022-08-09
 
 ### Added
