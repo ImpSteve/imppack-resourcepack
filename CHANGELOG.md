@@ -26,6 +26,19 @@ All more or less important changes to ImpPack project will be documented here.
 - Alex, Zenobiusz, Zombie miner, Alex miner & Zenobiusz miner variants for Zombie - optifine mob model & textures
 - biomes-dependent variances of Illagers (Evoker, Vindicator, Pillager, Ravager)
 - variant with a custom name "Johnny" for Vindicator - optifine mob model & textures
+- Drowned - emissive texture
+- Ender Dragon Egg - emissive texture
+- End Crystal - emissive texture
+- Glow Squid - emissive texture - visible when it's not glow after hit
+- Spawner - emissive texture
+- Spectral Arrow - entity - emissive texture
+- Carpets - connected textures
+- Diamond Sword - custom item texture - name for cit: "Blue Rose Sword"
+- Elytra - custom item textures
+- Enchanted Book - custom item textures - Curse of Vanishing, Curse of Binding
+- Name Tag - custom item texture
+- Netherite Sword - custom item texture - name for cit: "Night Sky Sword"
+- Replay Mod support - changed camera head and some GUI elements
 
 ### Changed
 - Beacon
@@ -63,7 +76,7 @@ All more or less important changes to ImpPack project will be documented here.
 - Book, Enchanted Book, Knowledge Book, Writable Book & Written Book
 - Diamond Axe, Diamond Hoe, Diamond Pickaxe, Diamond Shovel & Diamond Sword
 - Elytra & Brocken Elytra
-- End Crystal
+- End Crystal - item
 - Ender Pearl
 - Experience Bottle
 - Fishing Rod, Carrot on a Stick & Warped Fungus on a stick
@@ -82,5 +95,43 @@ All more or less important changes to ImpPack project will be documented here.
 - Stone Axe, Stone Hoe, Srone Pickaxe, Stone Shovel & Stone Sword
 - Structure Void - item
 - Redstone Torch, Soul Torch & Torch - items
-- Trident
+- Trident - item
 - Wooden Axe, Wooden Hoe, Wooden Pickaxe, Wooden Shovel, Wooden Sword
+- Banner
+- Cat - Black (Newton), Ocelot, Red
+- Conduit - resolution of Heart of the Sea
+- Creeper
+- Drowned
+- End Crystal - entity
+- Ender Dragon
+- Evoker
+- Glow Squid
+- Illusioner
+- Pillager
+- Polarbear
+- Spectral Arrow
+- Tripped Arrow
+- Shulker
+- Snow Golem
+- Spider and Cave Spider
+- Strider
+- Squid
+- Trident & Trident riptide animation
+- Vex
+- Vindicator
+- Witch
+- Zoglin
+- Zombiefied Piglin
+- Renamed music disc description - "C418 - wait" to "C418 - where are we now" 
+- Mojang Studios loading screen - colormap - dark gray instead of bright reddish color 
+- some GUI elements
+- all paintings frame & refreshed look of some paintings
+- "stage" painting shows "The Great Wave off Kanagawa"
+
+### Removed
+- old JP's ImpPack (v1.0) assets and additional content
+
+### Deprecated
+- variants of Cobblestone
+- Cocoa Beans - fixed stage2 model and texture
+- variants of Mossy Cobblestone
