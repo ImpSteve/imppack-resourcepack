@@ -22,7 +22,7 @@ The asset pack's changelog is in a separate text file called "changelog" in the 
 - [Addpix Pack](https://kypy0y.webwave.dev/addpix-pack)
 
 ### Mods:
-- [Polish Mafia Memes](https://www.planetminecraft.com/mod/polish-mafia-memes/)
+- [Polish Mafia Memes](https://kypy0y.webwave.dev/polish-mafia-memes)
 
 ## Discord
 - [Official general use Discord server - soon]()
