@@ -9,7 +9,7 @@ designed to improve some aspects of Vanilla.
 Inspired by Vanilla Tweaks and Better Vanilla Buildings resource packs, and other versions and editions of Minecraft
 Pack contains some Easter Eggs, and things related to the person who supported me at the beginning of this project creation
 
-The asset pack's changelog is in a separate text file called "changelog" in the assets/.info directory  
+The asset pack's changelog is in a separate md file called CHANGELOG in the assets/.info directory  
 
 ## Special thanks:
 - Zenobiusz - for being the first tester and giving lots of advice
