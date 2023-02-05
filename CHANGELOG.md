@@ -3,6 +3,37 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+## [1.1.8] - 2023-mm-dd
+
+### Added
+- custom Fence template models
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files) mod support - GUI textures
+
+### Changed
+- GUI
+- Empty armor, ore/material, shield, tool & weapon slots
+- Empty sithing template armor trim & netherite upgrade slot
+- Acacia Fence
+- Birch Fence
+- Crimson Fence
+- Dark Oak Fence
+- Jungle Fence
+- Mangrove Fence
+- Oak Fence
+- Warped Fence
+- Vex (again)
+
+### Removed
+- variants of Cobblestone
+- Cocoa Beans - fixed stage2 model and texture
+- variants of Mossy Cobblestone
+- Technoblade pig mob variant (due to issue with the texture display)
+
+### Fixed
+- Lever - particle of the missing texture
+- Replay Mod gui - slider matches the widget style of ImpPack, the timeline and keyframe marker and icons are now displayed correctly
+- Vex texture for 22w45a+
+
 ## [1.1 RUC b1]-[1.1 RUC b8] - 2022-08-09
 
 ### Added
