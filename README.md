@@ -27,5 +27,4 @@ Optifine or replacement mods Entity Model Features, Entity Textures Features, CI
 - [Polish Mafia Memes](https://kypy0y.webwave.dev/polish-mafia-memes)
 
 ## Discord
-- [Official general use Discord server - soon]()
 - [Original Polish language Discord server](https://discord.gg/AveczdZ)
