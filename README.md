@@ -3,18 +3,20 @@ A repository for storing change logs and examples for models, shaders, and .prop
 
 
 # ImpPack
-
-A resource pack 
-designed to improve some aspects of Vanilla.
-Inspired by Vanilla Tweaks and Better Vanilla Buildings resource packs, and other versions and editions of Minecraft
-Pack contains some Easter Eggs, and things related to the person who supported me at the beginning of this project creation
-
-The asset pack's changelog is in a separate md file called CHANGELOG in the assets/.info directory  
+Resource pack designed to improve some aspects of Vanilla. Inspired by Vanilla Tweaks and Better Vanilla Buildings resource packs, and other versions and editions of Minecraft. Contains some Easter Eggs, and things related to the person who supported me at the beginning of this project creation
 
 ## Special thanks:
 - Zenobiusz - for being the first tester and giving lots of advice
 - Otterek - for custom animations of the cow model
-	
+
+## Some textures/features required:
+Optifine or replacement mods Entity Model Features, Entity Textures Features, CIT Resewn
+
+## Replaced GUI textures for mods:
+- [Replay Mod](https://www.replaymod.com/)
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files)
+- [Mod Menu](https://modrinth.com/mod/modmenu/)
+
 ## Other projects:
 ### Resource Packs:
 - [Yenaabi 16x](https://www.planetminecraft.com/texture-pack/no-name-4498275/)
