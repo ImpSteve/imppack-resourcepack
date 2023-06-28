@@ -7,6 +7,7 @@ All more or less important changes to ImpPack project will be documented here.
 
 ### Added
 - Blaze mob variant
+- Blue Frog variant - biome Sparse Jungle
 - Ari, Sunny zombie variants
 - custom Fence template models
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files) mod support - GUI textures
@@ -26,6 +27,7 @@ All more or less important changes to ImpPack project will be documented here.
 - Warped Fence
 - Vex (again)
 - Blaze
+- Zenobiusz Zombie (regular and miner), Husk variants - updated
 
 ### Removed
 - variants of Cobblestone
