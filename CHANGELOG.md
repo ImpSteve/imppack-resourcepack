@@ -1,13 +1,13 @@
-# [ImpPack](https://www.curseforge.com/minecraft/texture-packs/jps-imppack) CurseForge page
+## [1.1.8] - 2023-06-28
 
-# CHANGELOG
-All more or less important changes to ImpPack project will be documented here.
-
-## [1.1.8] - 2023-mm-dd
+- updated to 1.20
 
 ### Added
+- Blaze mob variant
+- Ari, Sunny zombie variants
 - custom Fence template models
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files) mod support - GUI textures
+- [Mod Menu](https://modrinth.com/mod/modmenu/) mod support - GUI textures 
 
 ### Changed
 - GUI
@@ -22,6 +22,7 @@ All more or less important changes to ImpPack project will be documented here.
 - Oak Fence
 - Warped Fence
 - Vex (again)
+- Blaze
 
 ### Removed
 - variants of Cobblestone
