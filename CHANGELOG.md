@@ -1,3 +1,6 @@
+# CHANGELOG
+All more or less important changes to ImpPack project will be documented here.
+
 ## [1.1.8] - 2023-06-28
 
 - updated to 1.20
