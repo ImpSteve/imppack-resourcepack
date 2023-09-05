@@ -1,6 +1,32 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+## [1.1.9] - 2023-09-05
+### Added
+- Axiom mod support - changed hotbar and tool swapper widgets
+- Cherry Double Slabs
+- custom bulb Torch template
+- new Nautilus particles
+
+### Changed
+- Cherry Fence
+- Comparator
+- Conduit
+- Conduit Power - status effect icon
+- Darkness - status effect icon
+- Shadow
+- Map icons
+- Redstone Torch
+- Repeater
+- Stripped Cherry Log
+- Toasts
+- Witch - head
+
+### Fixed
+- missing Advancements GUI
+- missing splash original texts
+- emissive Torch, Tedstone Torch, Soul Torch
+
 ## [1.1.8] - 2023-06-28
 
 - updated to 1.20
