@@ -14,6 +14,8 @@ All more or less important changes to ImpPack project will be documented here.
 - Conduit
 - Conduit Power - status effect icon
 - Darkness - status effect icon
+- Elder Guardian
+- Guardian
 - Shadow
 - Map icons
 - Redstone Torch
