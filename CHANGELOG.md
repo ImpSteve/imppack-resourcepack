@@ -1,7 +1,27 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+## [1.1.10] - 2023-10-27
+
+- updated to 1.20.2 and 1.21 snapshots
+
+### Changed
+- Beacon
+- Crafter gui
+- Game Menu title
+- Death screen (You Died! & Game Over) title
+- New Realm icon
+- Paused screen title
+- Realms trial icon
+- Realms unseen notification icon
+
+### Fixed
+- Advancement tabs
+- Cherry Fence
+- Cherry Double Slabs
+
 ## [1.1.9] - 2023-09-05
+
 ### Added
 - Axiom mod support - changed hotbar and tool swapper widgets
 - Cherry Double Slabs
