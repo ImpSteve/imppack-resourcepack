@@ -1,6 +1,39 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+## [1.1.12] -2024-08-26
+
+- updated to 1.21
+
+### Changed
+- Bread
+- Breeze Rod
+- Magma Cream
+- Nether Star
+- Slime Ball
+- Frame - map icon
+- Trial Chambers - map icon
+
+### Deprecated
+- Replay Mod GUI support
+- Axiom GUI support
+- No Chat Report GUI support
+
+## [1.1.11] - 2024-03-21
+
+### Changed
+- Accessibility icon
+- Backup restore button
+- Bamboo item
+- Ghast tear
+- Iron Nugget
+- Language icon
+- Netherite Armor item set
+- Netherite Ingot
+- Netherite Scrap
+- Refreshed Book and Recipe Book gui sprite
+- Sea Pickle item
+
 ## [1.1.10] - 2023-10-27
 
 - updated to 1.20.2 and 1.21 snapshots
