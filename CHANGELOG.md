@@ -1,10 +1,16 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
-## [1.1.12] -2024-08-26
+## [1.1.13] - 2024-09-19
+### Removed
+- Inventory title form containers
+- Bucket icon in Creative inventrory
+### Fixed
+- Crash when loading pack caused by unused water.properties
+- New Recipes Unlocked text in Toast was too dark  
 
+## [1.1.12] - 2024-08-26
 - updated to 1.21
-
 ### Changed
 - Bread
 - Breeze Rod
@@ -13,14 +19,12 @@ All more or less important changes to ImpPack project will be documented here.
 - Slime Ball
 - Frame - map icon
 - Trial Chambers - map icon
-
 ### Deprecated
 - Replay Mod GUI support
 - Axiom GUI support
 - No Chat Report GUI support
 
 ## [1.1.11] - 2024-03-21
-
 ### Changed
 - Accessibility icon
 - Backup restore button
@@ -35,32 +39,28 @@ All more or less important changes to ImpPack project will be documented here.
 - Sea Pickle item
 
 ## [1.1.10] - 2023-10-27
-
 - updated to 1.20.2 and 1.21 snapshots
-
 ### Changed
 - Beacon
 - Crafter gui
+- Ender Chest
 - Game Menu title
 - Death screen (You Died! & Game Over) title
 - New Realm icon
 - Paused screen title
 - Realms trial icon
 - Realms unseen notification icon
-
 ### Fixed
 - Advancement tabs
 - Cherry Fence
 - Cherry Double Slabs
 
 ## [1.1.9] - 2023-09-05
-
 ### Added
 - Axiom mod support - changed hotbar and tool swapper widgets
 - Cherry Double Slabs
 - custom bulb Torch template
 - new Nautilus particles
-
 ### Changed
 - Cherry Fence
 - Comparator
@@ -76,16 +76,13 @@ All more or less important changes to ImpPack project will be documented here.
 - Stripped Cherry Log
 - Toasts
 - Witch - head
-
 ### Fixed
 - missing Advancements GUI
 - missing splash original texts
 - emissive Torch, Tedstone Torch, Soul Torch
 
 ## [1.1.8] - 2023-06-28
-
 - updated to 1.20
-
 ### Added
 - Blaze mob variant
 - Blue Frog variant - biome Sparse Jungle
@@ -93,7 +90,6 @@ All more or less important changes to ImpPack project will be documented here.
 - custom Fence template models
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files) mod support - GUI textures
 - [Mod Menu](https://modrinth.com/mod/modmenu/) mod support - GUI textures 
-
 ### Changed
 - GUI
 - Empty armor, ore/material, shield, tool & weapon slots
@@ -109,20 +105,17 @@ All more or less important changes to ImpPack project will be documented here.
 - Vex (again)
 - Blaze
 - Zenobiusz Zombie (regular and miner), Husk variants - updated
-
 ### Removed
 - variants of Cobblestone
 - Cocoa Beans - fixed stage2 model and texture
 - variants of Mossy Cobblestone
 - Technoblade pig mob variant (due to issue with the texture display)
-
 ### Fixed
 - Lever - particle of the missing texture
 - Replay Mod gui - slider matches the widget style of ImpPack, the timeline and keyframe marker and icons are now displayed correctly
 - Vex texture for 22w45a+
 
 ## [1.1 RUC b1]-[1.1 RUC b8] - 2022-08-09
-
 ### Added
 - Bookshelf variants
 - Carpets - optifine conneced textures
@@ -130,10 +123,10 @@ All more or less important changes to ImpPack project will be documented here.
 - Plank Double Slabs
 - End Stone Bricks Double Slab
 - Purpur Double Slab
-- "Bring the the horizon!" spash text
-- "The moon shines brighter when im alone?" spash text
-- "OMG! It's beetroot!" spash text
-- "Bella, are you there?" spash text
+- "Bring the the horizon!" splash text
+- "The moon shines brighter when im alone?" splash text
+- "OMG! It's beetroot!" splash text
+- "Bella, are you there?" splash text
 - green variant for blue Axolotl - optifine mob textures
 - variants with a bell & a custom name "Milka" for Cow - optifine mob model & textures
 - variant with a custom name "Reddit" for Creeper - optifine mob model & textures
@@ -157,7 +150,6 @@ All more or less important changes to ImpPack project will be documented here.
 - Name Tag - custom item texture
 - Netherite Sword - custom item texture - name for cit: "Night Sky Sword"
 - Replay Mod support - changed camera head and some GUI elements
-
 ### Changed
 - Beacon
 - Bookshelf
@@ -245,10 +237,8 @@ All more or less important changes to ImpPack project will be documented here.
 - some GUI elements
 - all paintings frame & refreshed look of some paintings
 - "stage" painting shows "The Great Wave off Kanagawa"
-
 ### Removed
 - old JP's ImpPack (v1.0) assets and additional content
-
 ### Deprecated
 - variants of Cobblestone
 - Cocoa Beans - fixed stage2 model and texture
