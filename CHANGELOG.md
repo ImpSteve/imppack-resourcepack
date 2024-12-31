@@ -1,6 +1,17 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+[1.1.14] - 2024-12-31
+- updated to 1.21.4
+### Added
+- Credits to zpez for pack maintenance
+### Changed
+- Creaking
+- Creaking Heart
+- Pale Oak Log
+- Pale Oak Planks
+- Stripped Pale Oak
+
 ## [1.1.13] - 2024-09-19
 ### Removed
 - Inventory title form containers
