@@ -1,7 +1,7 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
-[1.1.14] - 2024-12-31
+## [1.1.14] - 2024-12-31
 - updated to 1.21.4
 ### Added
 - Credits to zpez for pack maintenance
