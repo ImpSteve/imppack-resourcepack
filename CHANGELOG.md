@@ -24,6 +24,8 @@ All more or less important changes to ImpPack project will be documented here.
 - Test Block - Log
 - Test Instance Block
 - Villager trades gui
+### Fixed
+- Unlit wall Redstone Torch wrong model
 
 ## [1.1.14] - 2024-12-31
 - updated to 1.21.4
