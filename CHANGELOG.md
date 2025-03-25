@@ -1,6 +1,30 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+# [1.1.15] - 2025-03-25
+- updated to 1.21.5
+### Added
+- Custom textures support for Enchanted Books
+- Enchnted Book texture for Curses
+- Name Tag texture when item is renamed
+- Custom GUI Icons for Structure, Jigsaw and Test Blocks
+- Custom GUI Icons for Sound Settings
+### Changed
+- Beacon Beam
+- Bow
+- Enchanted Book
+- Fence - inventory model
+- Guardian Beam
+- Lead Knot
+- Lead
+- Nether Brick Fence
+- String
+- Test Block - Accept
+- Test Block - Fail
+- Test Block - Log
+- Test Instance Block
+- Villager trades gui
+
 ## [1.1.14] - 2024-12-31
 - updated to 1.21.4
 ### Added
