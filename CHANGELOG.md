@@ -1,6 +1,28 @@
 # CHANGELOG
 All more or less important changes to ImpPack project will be documented here.
 
+# [1.1.16] - 2025-04-22
+### Added
+- Crossbow Spectral Arrow
+- Custom Name Tag textures for jeb_, Dinnerbone, Grumm, Toast, Johnny
+- Torch, Soul Torch and Redstone Torch item texture
+- More custom GUI Icons for Settings
+### Changed 
+- Arrow, Spectral Arrow and Tipped Arrow items
+- Bow (again)
+- Chain item
+- Crossbow
+- Leaf Litter item
+- Melon Seeds
+- New Paintings frame to be consistant with other paintings in ImpPack
+- Pumpkin Seeds
+- Wheat Seeds
+### Fixed
+- Torch and Soul Torch and Redstone Torch items on ground and in item frame
+### Removed
+- The Great Wave painting replacing Stage painting
+- CIT item files
+
 # [1.1.15] - 2025-03-25
 - updated to 1.21.5
 ### Added
